@@ -9,11 +9,11 @@ public class Odd_Number {
 		
 		if(x%2==0)
 		{
-			System.out.println(x + " is th even number");
+			System.out.println(x + " is the even number");
 		}
 		else
 		{
-			System.out.println(x + " is th odd number");
+			System.out.println(x + " is the odd number");
 		}
 
 	}
