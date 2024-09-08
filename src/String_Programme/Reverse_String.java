@@ -4,7 +4,7 @@ public class Reverse_String {
 
 	public static void main(String[] args) {
 		
-		
+	// Avinash Mali	
 		String s = "Avinash Mali";
 		
 		String rev = "";
